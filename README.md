@@ -85,6 +85,12 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by calling the sayHello function. Click on the "DegenToken" contract in the left-hand sidebar, and then click on multiple functions available. Finally, click on the "transact" button to execute the function and retrieve the appropriate messages.
 
+## Proof of work as the Fuji Contract detail
+
+### Contract Address is provided as Application id as well
+
+![Alt text](image.png)
+
 ## Authors
 
 Priyanshu Dwivedi
